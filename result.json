@@ -1,0 +1,12 @@
+{
+  "jobId": "60336188970397696",
+  "pages": [
+    {
+      "markdownText": "\n<table border=1 style='margin: auto; word-wrap: break-word;'><tr><td style='text-align: center; word-wrap: break-word;'>关系</td><td style='text-align: center; word-wrap: break-word;'>具体表现</td><td style='text-align: center; word-wrap: break-word;'>毛泽东思想</td><td style='text-align: center; word-wrap: break-word;'>中国特色社会主义理论体系</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>不同点</td><td style='text-align: center; word-wrap: break-word;'>时代背景不同</td><td style='text-align: center; word-wrap: break-word;'>战争与革命</td><td style='text-align: center; word-wrap: break-word;'>和平与发展</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>历史任务不同</td><td style='text-align: center; word-wrap: break-word;'>革命和建设</td><td style='text-align: center; word-wrap: break-word;'>改革开放和现代化建设</td></tr><tr><td style='text-align: center; word-wrap: break-word;'>相同点</td><td style='text-align: center; word-wrap: break-word;'>共同的理论基础</td><td style='text-align: center; word-wrap: break-word;'>马克思主义理论</td><td style='text-align: center; word-wrap: break-word;'>马克思主义理论</td></tr><tr><td style='text-align: center; word-wrap: break-word;'></td><td style='text-align: center; word-wrap: break-word;'>理论精髓</td><td style='text-align: center; word-wrap: break-word;'>实事求是</td><td style='text-align: center; word-wrap: break-word;'>实事求是</td></tr></table>",
+      "markdownImages": {},
+      "outputImages": {
+        "layout_det_res": "https://pplines-online.bj.bcebos.com/deploy/official/paddleocr/pp-ocr-vl-16-online//5d7237ad-05f1-4fcf-99ac-e7ffa5a5d46f/layout_det_res_0.jpg?authorization=bce-auth-v1%2FALTAKDN8mY5KlNI7zaRpLmOqrw%2F2026-06-16T11%3A54%3A29Z%2F-1%2F%2F5b1dd18a4a313aafac10f308f0ddd5889d39c0c1d5b5c7ced162eea8b364cd29"
+      }
+    }
+  ]
+}
