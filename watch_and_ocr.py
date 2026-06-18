@@ -3,7 +3,7 @@
 
 用法：
     python watch_and_ocr.py
-    python watch_and_ocr.py --dir D:\Screenshots
+    python watch_and_ocr.py --dir D:/Screenshots
 
 前置条件：
     1. paddleocr 已安装：pip install paddleocr
