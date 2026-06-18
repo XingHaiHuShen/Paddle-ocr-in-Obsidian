@@ -1,18 +1,27 @@
 # Python
 __pycache__/
 *.py[cod]
+*$py.class
 *.egg-info/
 dist/
 build/
+*.so
 
-# OCR state
-.ocr_state.json
-.ocr_gui_config.json
+# OCR 运行时配置与状态（local-scripts/ 下生成）
+local-scripts/.ocr_gui_config.json
+local-scripts/.ocr_state.json
+local-scripts/__pycache__/
+
+# 运行时日志
+*.log
 
 # IDE
 .vscode/
 .idea/
+*.swp
+*.swo
 
 # OS
 .DS_Store
 Thumbs.db
+desktop.ini
