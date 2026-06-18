@@ -7,6 +7,7 @@ build/
 
 # OCR state
 .ocr_state.json
+.ocr_gui_config.json
 
 # IDE
 .vscode/
